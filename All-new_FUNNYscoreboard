@@ -1,11 +1,6 @@
 {
     "ip": [
         {
-            "name": "Me",
-            "id": "1",
-            "keys": "FN:S"
-        },
-        {
             "name": "FUNNY VPS",
             "id": "140.99.96.55",
             "keys": "FN:PICNICK#0176"
